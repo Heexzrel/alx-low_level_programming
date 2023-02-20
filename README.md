@@ -1,1 +1,1 @@
-Learning and coding Variables, if, else, while
+Learning and coding in C programming 
