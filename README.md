@@ -1,1 +1,1 @@
-C - Bit manipulation
+ Learning C programmig 
